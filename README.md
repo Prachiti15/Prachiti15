@@ -1,4 +1,4 @@
-[![MasterHead](https://allhacked.com/up/2019/03/hello-world.gif)](https://allhacked.com/up/2019/03/hello-world.gif)
+
 <h1 align="center">Hi 👋, I'm Prachiti Akre</h1>
 <h3 align="center">Hello there! 👋 Welcome to my GitHub repository. I'm Prachiti, a passionate web developer with expertise in React.js, Next.js, Python, NLP, and ML algorithms. I also have a solid background in C, C++, and Java programming languages. Feel free to explore my projects and contributions. If you want to know more about me and my work, check out my portfolio website at www.prachiti.tech.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
