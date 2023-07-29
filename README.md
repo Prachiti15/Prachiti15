@@ -10,7 +10,7 @@
 
 - 👩‍💻 I’m interested in **Frontend development, NLP.**
 
-- ⚡ All of my projects are available at my portfolio site [www.prachiti.tech](www.prachiti.tech)
+- ⚡ All of my projects are available at my portfolio site [www.prachiti.tech](https://www.prachiti.tech/)
 
 - 📫 How to reach me **prachitiakre.1572@gmail.com**
 
